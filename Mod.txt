@@ -1,0 +1,2 @@
+Prefix: &6&lMOD &e
+essentials.fly 	essentials.ban 	essentials.ban.exempt 	essentials.ban.notify 	essentials.ban.offline 	essentials.mute 	essentials.mute.exempt 	essentials.mute.notify 	essentials.mute.offline essentials.kick essentials.kick.exempt essentials.kick.notify 	essentials.vanish 	essentials.vanish.see
