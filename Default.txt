@@ -1,2 +1,0 @@
-Prefix: &a&lPLAYER &a
-essentials.spawn essentials.warp essentials.warps.spawn essentials.kit essentials.kits.start
