@@ -1,2 +1,0 @@
-Prefix: &b&lMVP+ Donator+++ &b
-essentials.warps.MVP+ essentials.kits.MVP+
