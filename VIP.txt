@@ -1,0 +1,2 @@
+Prefix: &a&lVIP Donator &a
+essentials.warps.VIP essentials.kits.VIP
